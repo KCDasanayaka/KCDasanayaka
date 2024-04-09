@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 <h1 align="center">Hi 👋, I'm Kavindu Chathuranga</h1>
-<h3 align="center">A web developer from Sabaragamuwa University of Sri Lanka</h3>
+<h3 align="center">A web developer and Undergraduate from <a href="https://www.sab.ac.lk/">Sabaragamuwa University of Sri Lanka</a>.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kcdasanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="kcdasanayaka" /> </p>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 
