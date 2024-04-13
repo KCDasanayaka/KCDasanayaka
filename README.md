@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN Stack and PHP**
 
-- 💬 Ask me about **HTML, CSS , Python and JS**
+- 💬 Ask me about **HTML, CSS , Python , and JS**
 
 - ⚡ Fun fact **'Keep calm and code on!'🚀**
 
