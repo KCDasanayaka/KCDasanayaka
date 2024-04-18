@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML, CSS , Python , and JS**
 
-- ⚡ Fun fact **' Keep calm and code on! '🚀**
+- ⚡ Fun fact **'Keep calm and code on!'🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
