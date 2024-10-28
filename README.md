@@ -7,15 +7,15 @@
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img  width=" 25" src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🚀 Dive into my <a href="https://kavinduchathuranga.netlify.app/" target="blank">portfolio</a> for a closer look at my projects and journey!
+- 🚀 Dive into my <a href="https://kavinduchathuranga.netlify.app/" target="_blank">portfolio</a> for a closer look at my projects and journey!
 
-- 🔭 I’m currently working on [Lerning Management Application](https://github.com/KCDasanayaka/Learning_Management_System)
+- 🔭 I’m currently working on [Learning Management Application](https://github.com/KCDasanayaka/Learning_Management_System).
 
-- 🌱 I’m currently learning **MERN Stack and PHP**
+- 🌱 I’m currently learning **MERN Stack and PHP**.
 
-- 💬 Ask me about **HTML, CSS , Python , and JS**
+- 💬 Ask me about **HTML, CSS, Python, and JavaScript**.
 
-- ⚡ Fun fact **'Keep calm and code on!' 🚀**
+- ⚡ Fun fact: **"Keep calm and code on!" 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
