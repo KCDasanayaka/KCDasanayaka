@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img  width=" 25" src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🚀 **[DIVE INTO MY PORTFOLIO](https://kavinduchathuranga.netlify.app/)** for a closer look at my projects and journey!
 
-- 🔭 I’m currently working on [Learning Management Application](https://github.com/KCDasanayaka/Learning_Management_System).
+- 🔭 I’m currently working on **Learning Management Application**.
 
 - 🌱 I’m currently learning **MERN Stack and PHP**.
 
