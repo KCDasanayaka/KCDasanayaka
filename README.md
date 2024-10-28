@@ -7,6 +7,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img  width=" 25" src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🚀 Explore my complete [portfolio](https://kavinduchathuranga.netlify.app/) here to dive deeper into my projects and journey!
 
 - 🔭 I’m currently working on [BuildMate+](https://github.com/GAP-Pathum/BuildMate_Plus.git)
 
